@@ -1,0 +1,14 @@
+C:\Users\migfergom3\Documents\ED\A305\bin\Debug\net9.0\A305.exe
+C:\Users\migfergom3\Documents\ED\A305\bin\Debug\net9.0\A305.deps.json
+C:\Users\migfergom3\Documents\ED\A305\bin\Debug\net9.0\A305.runtimeconfig.json
+C:\Users\migfergom3\Documents\ED\A305\bin\Debug\net9.0\A305.dll
+C:\Users\migfergom3\Documents\ED\A305\bin\Debug\net9.0\A305.pdb
+C:\Users\migfergom3\Documents\ED\A305\obj\Debug\net9.0\A305.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migfergom3\Documents\ED\A305\obj\Debug\net9.0\A305.AssemblyInfoInputs.cache
+C:\Users\migfergom3\Documents\ED\A305\obj\Debug\net9.0\A305.AssemblyInfo.cs
+C:\Users\migfergom3\Documents\ED\A305\obj\Debug\net9.0\A305.csproj.CoreCompileInputs.cache
+C:\Users\migfergom3\Documents\ED\A305\obj\Debug\net9.0\A305.dll
+C:\Users\migfergom3\Documents\ED\A305\obj\Debug\net9.0\refint\A305.dll
+C:\Users\migfergom3\Documents\ED\A305\obj\Debug\net9.0\A305.pdb
+C:\Users\migfergom3\Documents\ED\A305\obj\Debug\net9.0\A305.genruntimeconfig.cache
+C:\Users\migfergom3\Documents\ED\A305\obj\Debug\net9.0\ref\A305.dll
